@@ -9,6 +9,7 @@ The project includes data loading, exploratory data analysis (EDA), data cleanin
 The main objective of this project is to extract meaningful insights from raw data and present them in a clear and interactive format for decision-making.
 
 Dataset:
+<br>
 Dataset loaded using Python
 Contains structured data for analysis
 Data preprocessing performed to handle:
@@ -18,6 +19,7 @@ Incorrect data types
 Outliers and inconsistencies
 
 Project Steps:
+<br>
 1. Data Loading
 Imported dataset using Python
 Verified structure and column information
@@ -56,6 +58,7 @@ Created professional PPT presentation using Gamma
 Dashboard
 
 The Power BI dashboard includes:
+<br>
 KPI cards
 Trend analysis charts
 Category-wise analysis
@@ -63,6 +66,7 @@ Interactive filters and slicers
 Business insights visualization
 
 Results:
+<br>
 The project successfully:
 Converted raw data into meaningful insights
 Improved data quality through cleaning
@@ -71,6 +75,7 @@ Created an interactive dashboard for visualization
 Presented findings in report and presentation format
 
 How to Run:
+<br>
 1. Clone the Repository
 git clone <repository-link>
 2. Install Required Libraries
@@ -86,6 +91,7 @@ Open .pbix file in Power BI Desktop
 Open Gamma PPT or exported presentation file
 
 Conclusion:
+<br>
 This project demonstrates practical skills in:
 Data Analytics
 SQL Querying
