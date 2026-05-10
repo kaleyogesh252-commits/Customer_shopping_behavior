@@ -16,7 +16,7 @@ Duplicate records
 Incorrect data types
 Outliers and inconsistencies
 
-Project Steps
+Project Steps:
 1. Data Loading
 Imported dataset using Python
 Verified structure and column information
@@ -61,7 +61,7 @@ Category-wise analysis
 Interactive filters and slicers
 Business insights visualization
 
-Results
+Results:
 The project successfully:
 Converted raw data into meaningful insights
 Improved data quality through cleaning
