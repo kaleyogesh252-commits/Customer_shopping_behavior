@@ -1,12 +1,13 @@
 # Customer_shopping_behavior
 Data analysis project showing customer shopping behavior using python  SQL  Excel Power Bi.
 
-Overview
+
+Overview:
 This project demonstrates a complete Data Analytics workflow using Python, SQL, Power BI, and reporting tools.
 The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation, and presentation of insights.
 The main objective of this project is to extract meaningful insights from raw data and present them in a clear and interactive format for decision-making.
 
-Dataset
+Dataset:
 Dataset loaded using Python
 Contains structured data for analysis
 Data preprocessing performed to handle:
@@ -47,29 +48,28 @@ Trend analysis
 Built an interactive dashboard
 Added charts, KPIs, slicers, and filters
 Visualized business insights clearly
-10. Report & Presentation
+
+11. Report & Presentation
 Prepared project report with findings
 Created professional PPT presentation using Gamma
 Dashboard
 
 The Power BI dashboard includes:
-
 KPI cards
 Trend analysis charts
 Category-wise analysis
 Interactive filters and slicers
 Business insights visualization
+
 Results
-
 The project successfully:
-
 Converted raw data into meaningful insights
 Improved data quality through cleaning
 Performed efficient SQL-based analysis
 Created an interactive dashboard for visualization
 Presented findings in report and presentation format
 
-How to Run
+How to Run:
 1. Clone the Repository
 git clone <repository-link>
 2. Install Required Libraries
@@ -84,7 +84,7 @@ Open .pbix file in Power BI Desktop
 6. View Presentation
 Open Gamma PPT or exported presentation file
 
-Conclusion
+Conclusion:
 This project demonstrates practical skills in:
 Data Analytics
 SQL Querying
