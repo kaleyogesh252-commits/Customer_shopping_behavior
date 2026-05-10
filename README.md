@@ -3,6 +3,7 @@ Data analysis project showing customer shopping behavior using python  SQL  Exce
 
 
 Overview:
+<br>
 This project demonstrates a complete Data Analytics workflow using Python, SQL, Power BI, and reporting tools.
 The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard creation, and presentation of insights.
 The main objective of this project is to extract meaningful insights from raw data and present them in a clear and interactive format for decision-making.
